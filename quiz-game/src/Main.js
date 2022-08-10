@@ -9,14 +9,14 @@ function Main (){
     <div className="main">
         <div className="header">
             <Header  />
-        </div>
+        < /div>
         <div className ="game-window">
             <GameWindow />
-        </div>
+        < /div>
         <div className ="footer">
             <Footer />
-        </div>
-    </div>
+        < /div>
+    < /div>
     )
 }
 export default Main
